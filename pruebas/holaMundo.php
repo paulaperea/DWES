@@ -6,6 +6,7 @@
     <title>Hola Mundo</title>
 </head>
 <body>
+    <h1>Este es mi primer programa en local</h1>
     <?php echo "Hola Mundo"; ?>
 </body>
 </html>
